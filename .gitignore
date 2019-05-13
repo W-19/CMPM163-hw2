@@ -1,0 +1,11 @@
+*.csproj
+*sln
+.DS_Store
+Library
+Logs
+Packages
+ProjectSettings
+
+#I'm not sure if the following lines are having their intended effects
+/Assets/Textures/Cubemap/TestCubemap2048.cubemap
+/Executables/*
